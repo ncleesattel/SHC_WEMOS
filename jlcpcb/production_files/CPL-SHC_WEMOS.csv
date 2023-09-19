@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10nF,C_0805_2012Metric,49.0,28.0,0.0,top
+C2,10nF,C_0805_2012Metric,48.95,37.0,0.0,top
+C3,10nF,C_0805_2012Metric,49.0,31.0,0.0,top
+C4,10nF,C_0805_2012Metric,49.0,34.0,0.0,top
+C5,10nF,C_0805_2012Metric,49.0,21.0,0.0,top
+C6,10nF,C_0805_2012Metric,62.05,25.0,0.0,top
+C7,10nF,C_0805_2012Metric,62.0,21.0,0.0,top
+C8,100uF,C_1206_3216Metric,29.0,17.5,0.0,top
+J1,Joystick,JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,9.5,2.0,0.0,top
+J2,Shift,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,38.5,2.0,0.0,top
+J3,Foc+,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,49.0,2.0,0.0,top
+J4,Foc-,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,59.0,2.0,0.0,top
+J5,MainUnit,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,73.75,2.05,0.0,top
+J7,WemosPinsL,PinSocket_1x08_P2.54mm_Vertical,103.875,12.405,0.0,top
+J8,WemosPinsR,PinSocket_1x08_P2.54mm_Vertical,108.475,12.405,0.0,top
+R1,4.7k,R_0603_1608Metric,44.0,28.0,0.0,top
+R2,4.7k,R_0603_1608Metric,44.0,37.0,0.0,top
+R3,4.7k,R_0603_1608Metric,44.0,31.0,0.0,top
+R4,4.7k,R_0603_1608Metric,44.0,34.0,0.0,top
+R5,4.7k,R_0603_1608Metric,44.0,21.0,0.0,top
+R6,4.7k,R_0603_1608Metric,57.0,25.0,0.0,top
+R7,4.7k,R_0603_1608Metric,57.0,21.0,0.0,top
+R8,10k,R_0402_1005Metric,8.01,17.0,0.0,top
+R9,10k,R_0402_1005Metric,4.5,17.0,0.0,top

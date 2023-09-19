@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TeenAstro")(type "KiCad")(uri "${KIPRJMOD}/TeenAstro.pretty")(options "")(descr ""))
+)

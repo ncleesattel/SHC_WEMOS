@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+100uF,C8,C_1206_3216Metric,C15008
+MainUnit,J5,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,C157925
+Shift,"J2,J3,J4",JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,C157931
+10nF,"C1,C2,C3,C4,C5,C6,C7",C_0805_2012Metric,C1710
+10k,"R8,R9",R_0402_1005Metric,C25744
+4.7k,"R1,R2,R3,R4,R5,R6,R7",R_0603_1608Metric,C25999
+Joystick,J1,JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal,C263757
+WemosPinsL,"J7,J8",PinSocket_1x08_P2.54mm_Vertical,C27438
