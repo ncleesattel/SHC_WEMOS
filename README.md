@@ -45,24 +45,24 @@ Costs are about 3x, which makes it interesting only for hobbyists who want to av
 The CAD files have been mostly created in Fusion 360 with OEM parts imported where available. 
 
 ## pictures of the SHC
-![SHC_WEMOS 3D view](/Astro/SHC_WEMOS/img/WEMOS_SHC_3d_01.JPG "WEMOS_SHC_3d_01")
+![SHC_WEMOS 3D view](/img/WEMOS_SHC_3d_01.JPG "WEMOS_SHC_3d_01")
 
-![SHC_WEMOS pcb view](/Astro/SHC_WEMOS/img/WEMOS_SHC_3d_02.JPG "WEMOS_SHC_3d_02")
+![SHC_WEMOS pcb view](/img/WEMOS_SHC_3d_02.JPG "WEMOS_SHC_3d_02")
 
-![SHC_WEMOS assembly step 01](/Astro/SHC_WEMOS/img/WEMOS_SHC_assy_01.JPG "WEMOS_SHC_assy_01")
+![SHC_WEMOS assembly step 01](/img/WEMOS_SHC_assy_01.JPG "WEMOS_SHC_assy_01")
 
-![SHC_WEMOS assembly step 02](/Astro/SHC_WEMOS/img/WEMOS_SHC_assy_02.JPG "WEMOS_SHC_assy_02")
+![SHC_WEMOS assembly step 02](/img/WEMOS_SHC_assy_02.JPG "WEMOS_SHC_assy_02")
 
-![SHC_WEMOS assembly step 03](/Astro/SHC_WEMOS/img/WEMOS_SHC_assy_03.JPG "WEMOS_SHC_assy_03")
+![SHC_WEMOS assembly step 03](/img/WEMOS_SHC_assy_03.JPG "WEMOS_SHC_assy_03")
 
-![SHC_WEMOS assembly step 04](/Astro/SHC_WEMOS/img/WEMOS_SHC_assy_04.JPG "WEMOS_SHC_assy_04")
+![SHC_WEMOS assembly step 04](/img/WEMOS_SHC_assy_04.JPG "WEMOS_SHC_assy_04")
 
-![SHC_WEMOS assembly step 05](/Astro/SHC_WEMOS/img/WEMOS_SHC_assy_05.JPG "WEMOS_SHC_assy_05")
+![SHC_WEMOS assembly step 05](/img/WEMOS_SHC_assy_05.JPG "WEMOS_SHC_assy_05")
 
-![SHC_WEMOS side view cut](/Astro/SHC_WEMOS/img/WEMOS_SHC_cut_01.JPG "WEMOS_SHC_cut_01")
+![SHC_WEMOS side view cut](/img/WEMOS_SHC_cut_01.JPG "WEMOS_SHC_cut_01")
 
-![SHC_WEMOS side view](/Astro/SHC_WEMOS/img/WEMOS_SHC_side_01.JPG "WEMOS_SHC_side_01")
+![SHC_WEMOS side view](/img/WEMOS_SHC_side_01.JPG "WEMOS_SHC_side_01")
 
-![SHC_WEMOS top view](/Astro/SHC_WEMOS/img/WEMOS_SHC_top_01.JPG "WEMOS_SHC_top_01")
+![SHC_WEMOS top view](/img/WEMOS_SHC_top_01.JPG "WEMOS_SHC_top_01")
 
 
