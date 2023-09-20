@@ -42,7 +42,27 @@ Costs are about 3x, which makes it interesting only for hobbyists who want to av
   * SHC display to pcb spacer --> models folder
  
  ## associated CAD files
-The CAD files have been mostly created in Fusion 360 with OEM parts imported where available. 
+The CAD files have been mostly created in Fusion 360 with OEM parts imported where available.
+
+## approximate cost
+The cost is calculated for a single SHC, assuming the pcb cost of 5 can be shared.
+Shipping costs are included for 2x JLCPCB and 1x Reichelt.
+
+| Parts | Cost |
+|-------|------|
+| WEMOS D1 mini | 6€ |
+| 3d printed parts | 40€ |
+| SHC pcb | 8€ |
+| OLED pcb | 8€ |
+| OLED with frame | 18€ |
+| APEM joystick | 32€ |
+| RAFI and APEM switches | 9€ |
+| Remainder | 10€ |
+| Total | 131€ |
+
+Depending on if you have access to a 3d printer and can share the pcb cost, you're looking the following range:
+minimal build cost 90€ (own 3d printer and can share pcb cost)
+maximal build cost 180€ (have to order the 3d case stls and cannot share pcb cost)
 
 ## pictures of the SHC
 ![SHC_WEMOS 3D view](/img/WEMOS_SHC_3d_01.JPG "WEMOS_SHC_3d_01")
