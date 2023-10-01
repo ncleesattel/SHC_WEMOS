@@ -1,10 +1,13 @@
 # SHC_WEMOS
 This is a handheld controller for TeenAstro.  
+See also [Link to TeenAstro Wiki](https://groups.io/g/TeenAstro/wiki) and [link to TeenAstro github](https://github.com/charleslemaire0/TeenAstro)   
+  
 It features a 3.3V OLED 2.42" display, a joystick together with the WEMOS D1 mini MCU.  
 The associated pcb can be ordered at JLCPCB fully assembled with smd parts and JST XH connectors.  
 This reduces the amount of soldering to a minimum.  
-_I also provide a design of an OLED pcb, that does not require smd soldering for the I2C use compared to the DIYmore pcb.  
-Costs are about 3x, which makes it interesting only for hobbyists who want to avoid the smd solder._
+  
+I also provide a design of an OLED pcb, that does not require smd soldering for the I2C use compared to the DIYmore pcb.  
+Costs for the separate OLED pcb are about 3x, which makes it interesting only for hobbyists who want to avoid the smd solder.
 
 ## recommendations
 * You’ll need to be able to solder a connection using a pinheader between the two pcbs.
@@ -35,7 +38,7 @@ Costs are about 3x, which makes it interesting only for hobbyists who want to av
 ## which files are needed for the...
 * pcbs
   * SHC pcb --> jlcpcb folder
-  * OLED pcb --> ../../oled242_pcb/jlcpcb folder
+  * OLED pcb --> separate repository
 * 3D prints
   * SHC bottom case --> models folder
   * SHC top case --> models folder
